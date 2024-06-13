@@ -1,0 +1,23 @@
+div{
+    height: 300px;
+    width: 500px;
+    background-color: pink;
+    /* border-width: 5px ;
+    border-style: solid;
+    border-color: black; */
+    border: 5px solid yellow;
+    /* border-left-color: blue;
+    border-left-style: dashed; */
+
+    border-top: 2px dashed blue ;
+}
+h1{
+    /* border-width: 2px;
+    border-style: dotted;
+    border-color: red; */
+    /* height: 100px;
+    width: 300px; */
+    border: 2px dashed red;
+    /* background-color: beige;
+    color: brown; */
+}

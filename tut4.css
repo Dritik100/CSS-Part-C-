@@ -1,0 +1,22 @@
+div{
+    height: 300px;
+    width: 500px;
+    background-color: pink;
+    /* border-width: 5px ;
+    border-style: solid;
+    border-color: black; */
+   
+    /* border-left-color: blue;
+    border-left-style: dashed; */
+    /* border-top: 2px dashed blue ; */
+
+    border: 5px solid black;
+    border-radius: 15px;
+    /* border-top-right-radius: 50px; */
+
+
+}
+h1{
+    border:2px dashed red;
+    border-radius: 15px;
+}
